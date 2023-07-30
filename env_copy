@@ -1,0 +1,5 @@
+access_id="xxxxxxx"
+secret="yyyyyyy"
+bot_token="zzzzzzz"
+chat_id="ccccccccc"
+LAST_EXECUTION_PATH="[provide-full-path]/data/last_execution.txt"

@@ -1,0 +1,4 @@
+.env
+last_execution.txt
+__pycache__
+myenv/
