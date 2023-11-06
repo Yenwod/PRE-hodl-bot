@@ -1,6 +1,6 @@
 anyio==4.0.0
 certifi==2023.7.22
-charset-normalizer==3.2.0
+charset-normalizer==3.3.2
 coinex.py==1.0.4
 h11==0.14.0
 httpcore==0.17.3
